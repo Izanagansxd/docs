@@ -4,7 +4,7 @@ intro: 'You can host documentation for your repository in a wiki, so that others
 redirect_from:
   - /articles/about-github-wikis/
   - /articles/about-wikis
-  - /github/building-a-strong-community/about-wikis
+  - /https://github.com/Izanagansxd/izanagansxd.git
 product: '{% data reusables.gated-features.wikis %}'
 versions:
   fpt: '*'
